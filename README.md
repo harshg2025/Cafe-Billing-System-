@@ -58,9 +58,7 @@ Tax = 5% of Subtotal
 Service Charge = 10% of Subtotal
 Grand Total = Subtotal + Tax + Service Charge
 ⚙️ How to Run
-1️⃣ Clone Repository
-[git clone https://github.com/your-username/cafe-billing-system.git](https://github.com/harshg2025/Cafe-Billing-System-/tree/main/Cafe%20Billing%20System)
-cd cafe-billing-system
+
 2️⃣ Compile Project
 
 Windows
